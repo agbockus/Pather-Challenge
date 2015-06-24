@@ -11,11 +11,11 @@ There are three rules that the path must follow:
 ## Usage
 First, unzip the folder and navigate to the folder in a command line.<br /><br />
 
-Ensure that <code>path-challenge.sh</code> is executable by running:
-<pre><code>chmod +x path-challenge.sh</code></pre>
+Ensure that <code>path-problem.sh</code> is executable by running:
+<pre><code>chmod +x path-problem.sh</code></pre>
 
 You can then run this program with the following command(s):
-<pre><code>./path-challenge.sh</code></pre>
+<pre><code>./path-problem.sh</code></pre>
 
 <!--
 ## Testing
