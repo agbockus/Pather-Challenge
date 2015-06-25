@@ -1,7 +1,7 @@
 #Path Problem
 ##Pather
 
-This small program takes a specified input and output file, reads the input for '#' characters and draws a path of '*' between them.
+This small program (written in ruby) takes a specified input and output file, reads the input for '#' characters and draws a path of '*' between them.
 
 There are three rules that the path must follow:
 * No diagonals.
@@ -9,7 +9,7 @@ There are three rules that the path must follow:
 * Start with a vertical line and then complete with a horizontal line.
 
 ## Usage
-First, unzip the folder and navigate to the folder in a command line.<br /><br />
+First, unzip the folder and navigate to the folder in a command line.<br />
 
 Ensure that <code>path-problem.sh</code> is executable by running:
 <pre><code>chmod +x path-problem.sh</code></pre>
